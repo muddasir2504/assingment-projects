@@ -1,0 +1,24 @@
+img.align-center{
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 70%;
+}
+h2{
+    text-align: center;
+    color: rgb(6, 161, 40);
+    font-size: 300%;
+}
+p{text-align: center;
+color: rgb(90, 80, 184);
+font-size: 250%;
+}
+.link{text-align: center;
+    font-size: xx-large;
+}
+h1{
+    background-color: crimson; text-align: center; text-decoration: underline;
+}
+ol{
+    background-color: rgb(156, 156, 156);
+}
